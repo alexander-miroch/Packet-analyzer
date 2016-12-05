@@ -1,0 +1,2 @@
+pending.o: pending.c include/pal.h include/pqueue.h include/rules.h \
+  include/action.h include/pending.h

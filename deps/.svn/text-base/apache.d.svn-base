@@ -1,0 +1,2 @@
+apache.o: apache.c include/pal.h include/pqueue.h include/rules.h \
+  include/action.h

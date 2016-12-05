@@ -1,0 +1,2 @@
+action.o: action.c include/pal.h include/pqueue.h include/rules.h \
+  include/action.h
